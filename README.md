@@ -49,3 +49,7 @@ result.netPayableSalary(); // 213.00
 Ini latihan aritmetika satu masukan. Program tidak menyimpan pegawai atau riwayat, tidak membaca slip gaji, dan tidak menyediakan aturan payroll berdasarkan negara/tahun. Versi awal memakai integer yang memotong pecahan dan dapat overflow pada perkalian; versi ini mempertahankan tarifnya dengan aritmetika desimal.
 
 Lihat [NOTICE.md](NOTICE.md) untuk asal proyek dan status atribusi/lisensi. Folder build `target/` tidak disertakan dalam Git.
+
+## Alur kode
+
+[Diagram alur, tanggung jawab file, dan batas penyimpanan](docs/CODE_FLOW.md).
